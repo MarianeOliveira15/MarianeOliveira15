@@ -18,7 +18,7 @@
 
 ## 👩‍💻 Sobre Mim
 
-Sou estudante de **Engenharia da Computação** (6º período) no **IFPB** e apaixonada por tecnologia desde pequena. Meu foco principal é a **Inteligência Artificial**, com interesse especial em chatbots e agentes inteligentes.
+Sou estudante de **Engenharia da Computação** (6º período) no **IFPB** e apaixonada por tecnologia desde pequena. 
 
 - 💬 **Perfil:** Comunicativa, organizada e sempre em busca de aprendizado contínuo
 - 📖 **Hobby:** Perco a noção do tempo lendo um bom livro
