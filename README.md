@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6e0a3d,9c2a5a,c4607a&height=200&section=header&text=Olá,%20eu%20sou%20Mariane!%20🌸&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engenharia%20da%20Computação%20·%20IFPB%20·%206º%20Período&descAlignY=58&descColor=ffd6e4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e0a3d,50:9c2a5a,100:c4607a&height=200&section=header&text=Ol%C3%A1%2C%20eu%20sou%20Mariane!%20%F0%9F%8C%B8&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engenharia%20da%20Computa%C3%A7%C3%A3o%20%C2%B7%20IFPB%20%C2%B7%206%C2%BA%20Per%C3%ADodo&descAlignY=58&descColor=ffd6e4" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
@@ -70,8 +70,8 @@ Sou estudante de **Engenharia da Computação** (6º período) no **IFPB** e apa
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=calm&title_color=6e0a3d&icon_color=c4607a&text_color=555&bg_color=fff5f8&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=calm&title_color=6e0a3d&text_color=555&bg_color=fff5f8&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=MarianeOliviera15&show_icons=true&theme=calm&title_color=6e0a3d&icon_color=c4607a&text_color=555&bg_color=fff5f8&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianeOliviera15&layout=compact&theme=calm&title_color=6e0a3d&text_color=555&bg_color=fff5f8&hide_border=true" />
 
 </div>
 
@@ -82,7 +82,7 @@ Sou estudante de **Engenharia da Computação** (6º período) no **IFPB** e apa
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-contatomarianeoliveira%40gmail.com-6e0a3d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatomarianeoliveira@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mariane%20Oliveira-9c2a5a?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_LINKEDIN_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mariane%20Oliveira-9c2a5a?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mariane-oliveira-o201915)
 
 </div>
 
@@ -90,8 +90,8 @@ Sou estudante de **Engenharia da Computação** (6º período) no **IFPB** e apa
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6e0a3d,9c2a5a,c4607a&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e0a3d,50:9c2a5a,100:c4607a&height=100&section=footer" width="100%"/>
 
-*Feito com 🌸 e muito café*
+*Feito com 🌸*
 
 </div>
