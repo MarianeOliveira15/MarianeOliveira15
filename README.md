@@ -1,4 +1,4 @@
-# Olá, eu sou a Mariane! 🌸✨
+# Olá, eu sou Mariane! 🌸✨
 
 > "Treinando algoritmos para entenderem a lógica, enquanto os livros me ensinam a entender o mundo." 📚🤖
 
