@@ -1,4 +1,4 @@
-# Olá, eu sou a Mariane! 🌸✨
+# Olá, eu sou Mariane! 🌸✨
 
 ### 👩‍💻 Sobre Mim
 [cite_start]Sou estudante de **Engenharia da Computação** (6º período) no IFPB e entusiasta do mundo tech desde cedo! [cite: 5, 22] [cite_start]Atualmente, meu coração bate mais forte pela **Inteligência Artificial**, chatbots e o desenvolvimento de agentes inteligentes. [cite: 7, 11]
