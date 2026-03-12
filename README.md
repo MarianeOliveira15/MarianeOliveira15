@@ -28,14 +28,6 @@ Atualmente, dedico meu tempo acadêmico a projetos que impactam a comunidade:
 
 ---
 
-### 📊 My Tech Stats
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=rose&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=rose"/>
-</p>
-
----
-
 ### 💌 Vamos nos conectar?
 * **E-mail:** contatomarianeoliveira@gmail.com 
 * **LinkedIn:** [Seu Link do LinkedIn aqui]
