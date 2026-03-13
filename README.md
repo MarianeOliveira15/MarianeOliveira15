@@ -18,7 +18,7 @@
 
 ## 👩‍💻 Sobre Mim
 
-Sou estudante de **Engenharia da Computação** (6º período) no **IFPB** e apaixonada por tecnologia desde pequena. 
+Sou estudante de **Engenharia de Computação** (6º período) no **IFPB** e apaixonada por tecnologia desde pequena. 
 
 - 💬 **Perfil:** Comunicativa, organizada e sempre em busca de aprendizado contínuo
 - 📖 **Hobby:** Perco a noção do tempo lendo um bom livro
