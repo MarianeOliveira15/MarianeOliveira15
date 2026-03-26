@@ -91,6 +91,5 @@ Sou estudante de **Engenharia de Computação** (6º período) no **IFPB** e apa
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e0a3d,50:9c2a5a,100:c4607a&height=100&section=footer" width="100%"/>
 
-*Feito com 🌸*
 
 </div>
