@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e0a3d,50:9c2a5a,100:c4607a&height=200&section=header&text=Ol%C3%A1%2C%20eu%20sou%20Mariane!%20%F0%9F%8C%B8&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engenharia%20da%20Computa%C3%A7%C3%A3o%20%C2%B7%20IFPB%20%C2%B7%206%C2%BA%20Per%C3%ADodo&descAlignY=58&descColor=ffd6e4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e0a3d,50:9c2a5a,100:c4607a&height=200&section=header&text=Ol%C3%A1%2C%20eu%20sou%20Mariane!%20%F0%9F%8C%B8&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engenharia%20de%20Computa%C3%A7%C3%A3o%20%C2%B7%20IFPB%20%C2%B7%207%C2%BA%20Per%C3%ADodo&descAlignY=58&descColor=ffd6e4" width="100%" />
 
 <br/>
 
